@@ -109,8 +109,8 @@ Development installation requires to clone the repository and then use [PDM](htt
 project as well as the main and development dependencies:
 
 ```bash
-git clone https://github.com/georgedouzas/sports-betting.git
-cd sports-betting
+git clone https://github.com/TalentedDeveloper19980105/sports-betting-website.git
+cd sports-betting-website
 pdm install
 ```
 
